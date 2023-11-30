@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("content").innerHTML="<h1> Hello Webpack </h1>"})();
